@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTRSweb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243d9c3347004e61ba07e2a554aaa38fe8adfcf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff84535ba2d3e0090d91d6405f27f3365c72040a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTRSweb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTRSweb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
